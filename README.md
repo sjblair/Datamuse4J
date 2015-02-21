@@ -13,7 +13,7 @@ The endpoints used by Datamuse are `api.datamuse.com/words` and `api.datamuse.co
 
 Currently there is no rate limiting or API keys needed for the API but it is experimental and may be rate limited at no notice. If you need guarentees about availablity, message [OneLook here](http://onelook.com/about.shtml#feedback) and they can set you up.
 
-Here is a brief summary of what this code can do:
+Here is a brief summary of what this code can do (See the [Javadoc](https://github.com/sjblair/Datamuse4J/tree/master/doc) for full information):
 
 **GET** `/words{?rd,sl,sp,max}`
 

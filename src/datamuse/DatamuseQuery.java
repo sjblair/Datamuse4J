@@ -121,7 +121,7 @@ public class DatamuseQuery {
      * @param url The page's URL.
      * @return The source code.
      */
-    private static String getJSON(String url) {
+    private String getJSON(String url) {
         URL datamuse;
         URLConnection dc;
         StringBuilder s = null;
